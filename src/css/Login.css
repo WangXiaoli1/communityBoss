@@ -1,0 +1,17 @@
+.boss_login{
+    width: 100%;
+}
+.boss_login h1{
+    text-align: center;
+    font-size: 2rem;
+    color: #4B4B49;
+}
+.boss_name,.boss_password{
+    width:80%;
+    margin: 10%;
+    height: 1.5rem;
+}
+.boss_name input,.boss_password input{
+    height:1.5rem;
+}
+
